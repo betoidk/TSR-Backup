@@ -116,7 +116,7 @@ translate spanish strings:
 
     # game/screens.rpy:852
     old "Rollback Side"
-    new "Retroceso de texto"
+    new "Retroceso"
 
     # game/screens.rpy:853
     old "Disable"
@@ -136,7 +136,7 @@ translate spanish strings:
 
     # game/screens.rpy:861
     old "After Choices"
-    new "Tras Elecciones"
+    new "Tras Elegir"
 
     # game/screens.rpy:862
     old "Transitions"
@@ -160,7 +160,7 @@ translate spanish strings:
 
     # game/screens.rpy:885
     old "Auto-Forward Time"
-    new "Tiempo de avance automático"
+    new "Avance automático"
 
     # game/screens.rpy:892
     old "Music Volume"
@@ -256,7 +256,7 @@ translate spanish strings:
 
     # game/screens.rpy:1250
     old "Page Up"
-    new "Page Up"
+    new "Página Arriba"
 
     # game/screens.rpy:1251
     old "Rolls back to earlier dialogue."
@@ -264,7 +264,7 @@ translate spanish strings:
 
     # game/screens.rpy:1254
     old "Page Down"
-    new "Page Down"
+    new "Página Abajo"
 
     # game/screens.rpy:1255
     old "Rolls forward to later dialogue."
