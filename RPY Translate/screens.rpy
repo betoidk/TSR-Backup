@@ -268,7 +268,7 @@ translate spanish strings:
 
     # game/screens.rpy:1255
     old "Rolls forward to later dialogue."
-    new "Avanza al diálogo posterior."
+    new "Avanza al diálogo siguiente."
 
     # game/screens.rpy:1259
     old "Hides the user interface."
