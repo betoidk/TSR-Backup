@@ -855,12 +855,6 @@ screen preferences():
                     textbutton _("After Choices") action Preference("after choices", "toggle")
                     textbutton _("Transitions") action InvertSelected(Preference("transitions", "toggle"))
 
-                vbox:
-                    style_prefix "radio"
-                    label _("Language")
-                    textbutton _("English") action Language(None)
-                    textbutton _("Spanish") action Language("spanish")     
-
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.
 
@@ -869,6 +863,12 @@ screen preferences():
                     label _("Font")
                     textbutton _("Default") action [gui.SetPreference("font_a", "font/LibreBaskervilleRegular.ttf"), gui.SetPreference("font_b", "font/PlayfairDisplaySCBold.ttf"), gui.SetPreference("font_c", "font/LibreBaskervilleBold.ttf"), gui.SetPreference("font_leading", 1)]
                     textbutton _("OpenDyslexic") action [ gui.SetPreference("font_a", "font/OpenDyslexic3-Regular.ttf"), gui.SetPreference("font_b", "font/OpenDyslexic3-Bold.ttf"), gui.SetPreference("font_c", "font/OpenDyslexic3-Regular.ttf"), gui.SetPreference("font_leading", -10)]
+
+                vbox:
+                    style_prefix "check"
+                    label _("Language")
+                    textbutton _("English") action [Language(None),SetVariable("persistent.lengua",If(persistent.lengua==True,persistent.lengua==False))]
+                    textbutton _("Español") action [Language("spanish"),SetVariable("persistent.lengua",True)]
 
             null height (4 * gui.pref_spacing)
 
