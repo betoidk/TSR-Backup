@@ -204,7 +204,7 @@ translate spanish strings:
 
     # game/screens.rpy:1213
     old "Gamepad"
-    new "Gamepad"
+    new "Control"
 
     # game/screens.rpy:1226
     old "Enter"
@@ -288,7 +288,7 @@ translate spanish strings:
 
     # game/screens.rpy:1277
     old "Middle Click"
-    new "Clic Central"
+    new "Clic Medio"
 
     # game/screens.rpy:1281
     old "Right Click"
@@ -312,7 +312,7 @@ translate spanish strings:
 
     # game/screens.rpy:1304
     old "Right Shoulder"
-    new "Hombro Derecho"
+    new "Bumper Derecho"
 
     # game/screens.rpy:1308
     old "D-Pad, Sticks"
