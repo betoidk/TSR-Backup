@@ -308,7 +308,7 @@ translate spanish strings:
 
     # game/screens.rpy:1300
     old "Left Trigger\nLeft Shoulder"
-    new "Gatillo Izquierdo\nBotón Izquierdo Superior"
+    new "Gatillo Izquierdo\nBumper Izquierdo"
 
     # game/screens.rpy:1304
     old "Right Shoulder"
