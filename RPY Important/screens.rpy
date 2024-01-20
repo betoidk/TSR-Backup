@@ -983,7 +983,7 @@ screen nik_select():
             imagebutton idle "images/thumbnails/nikthumb3.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 4), Hide("confirm"))
             imagebutton idle "images/thumbnails/puthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 5), Hide("confirm"))
             imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 6), Hide("confirm"))
-        add "sprites/nik/nik.webp" xpos 820 xysize(800, 800) ypos -400 alpha 0.55
+        add "sprites/nik/nik happy.webp" xpos 820 xysize(800, 800) ypos -400 alpha 0.55
 
 screen will_select():
     vbox:
@@ -997,7 +997,7 @@ screen will_select():
             imagebutton idle "images/thumbnails/puthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 4), Hide("confirm"))
             imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 5), Hide("confirm"))
             null
-        add "sprites/william/wil.webp" xpos 800 xysize(800, 800) ypos -400 alpha 0.55
+        add "sprites/william/wil happy.webp" xpos 800 xysize(800, 800) ypos -400 alpha 0.55
 
 screen murdoch_select():
     vbox:
