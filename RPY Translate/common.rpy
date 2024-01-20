@@ -116,155 +116,155 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
-    new "<l9>Lunes"
+    new "{#weekday}Lunes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Tuesday"
-    new "<l9>Martes"
+    new "{#weekday}Martes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Wednesday"
-    new "<l9>Miércoles"
+    new "{#weekday}Miércoles"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Thursday"
-    new "<l9>Jueves"
+    new "{#weekday}Jueves"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Friday"
-    new "<l9>Viernes"
+    new "{#weekday}Viernes"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Saturday"
-    new "<l9>Sábado"
+    new "{#weekday}Sábado"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new "<l9>Domingo"
+    new "{#weekday}Domingo"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Mon"
-    new "<l9>Lun"
+    new "{#weekday_short}Lun"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Tue"
-    new "<l9>Mar"
+    new "{#weekday_short}Mar"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Wed"
-    new "<l9>Mié"
+    new "{#weekday_short}Mié"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Thu"
-    new "<l9>Jue"
+    new "{#weekday_short}Jue"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Fri"
-    new "<l9>Vie"
+    new "{#weekday_short}Vie"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sat"
-    new "<l9>Sáb"
+    new "{#weekday_short}Sáb"
 
     # renpy/common/00action_file.rpy:37
     old "{#weekday_short}Sun"
-    new "<l9>Dom"
+    new "{#weekday_short}Dom"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}January"
-    new "<l9>Enero"
+    new "{#month}Enero"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}February"
-    new "<l9>Febrero"
+    new "{#month}Febrero"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}March"
-    new "<l9>Marzo"
+    new "{#month}Marzo"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new "<l9>Abril"
+    new "{#month}Abril"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
-    new "<l9>Mayo"
+    new "{#month}Mayo"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}June"
-    new "<l9>Junio"
+    new "{#month}Junio"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}July"
-    new "<l9>Julio"
+    new "{#month}Julio"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new "<l9>Agosto"
+    new "{#month}Agosto"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}September"
-    new "<l9>Septiembre"
+    new "{#month}Septiembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}October"
-    new "<l9>Octubre"
+    new "{#month}Octubre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}November"
-    new "<l9>Noviembre"
+    new "{#month}Noviembre"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}December"
-    new "<l9>Diciembre"
+    new "{#month}Diciembre"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jan"
-    new "<l9>Ene"
+    new "{#month_short}Ene"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Feb"
-    new "<l9>Feb"
+    new "{#month_short}Feb"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Mar"
-    new "<l9>Mar"
+    new "{#month_short}Mar"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Apr"
-    new "<l9>Abr"
+    new "{#month_short}Abr"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}May"
-    new "<l9>May"
+    new "{#month_short}May"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jun"
-    new "<l9>Jun"
+    new "{#month_short}Jun"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Jul"
-    new "<l9>Jul"
+    new "{#month_short}Jul"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Aug"
-    new "<l9>Ago"
+    new "{#month_short}Ago"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Sep"
-    new "<l9>Sep"
+    new "{#month_short}Sep"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Oct"
-    new "<l9>Oct"
+    new "{#month_short}Oct"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Nov"
-    new "<l9>Nov"
+    new "{#month_short}Nov"
 
     # renpy/common/00action_file.rpy:63
     old "{#month_short}Dec"
-    new "<l9>Dic"
+    new "{#month_short}Dic"
 
     # renpy/common/00action_file.rpy:258
     old "%b %d, %H:%M"
@@ -272,15 +272,15 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:378
     old "Save slot %s: [text]"
-    new "Guardar ranura %s: [text]"
+    new "Espacio de guardado %s: [text]"
 
     # renpy/common/00action_file.rpy:461
     old "Load slot %s: [text]"
-    new "Cargar ranura %s: [text]"
+    new "Espacio de carga %s: [text]"
 
     # renpy/common/00action_file.rpy:514
     old "Delete slot [text]"
-    new "Eliminar ranura [text]"
+    new "Eliminar espacio [text]"
 
     # renpy/common/00action_file.rpy:593
     old "File page auto"
@@ -288,7 +288,7 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:595
     old "File page quick"
-    new "Página de archivo rápida"
+    new "Página de archivo rápido"
 
     # renpy/common/00action_file.rpy:597
     old "File page [text]"
@@ -300,7 +300,7 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:868
     old "Previous file page."
-    new "Página de archivo anterior."
+    new "Página anterior de archivo."
 
     # renpy/common/00action_file.rpy:929
     old "Quick save complete."
@@ -312,7 +312,7 @@ translate spanish strings:
 
     # renpy/common/00action_file.rpy:963
     old "Quick load."
-    new "Carga rápida."
+    new "Cargado rápido."
 
     # renpy/common/00action_other.rpy:383
     old "Language [text]"
@@ -340,31 +340,31 @@ translate spanish strings:
 
     # renpy/common/00director.rpy:1584
     old "(statement)"
-    new "(declaración)"
+    new "(statement)"
 
     # renpy/common/00director.rpy:1585
     old "(tag)"
-    new "(etiqueta)"
+    new "(tag"
 
     # renpy/common/00director.rpy:1586
     old "(attributes)"
-    new "(atributos)"
+    new "(attributes)"
 
     # renpy/common/00director.rpy:1587
     old "(transform)"
-    new "(transformar)"
+    new "(transforn)"
 
     # renpy/common/00director.rpy:1612
     old "(transition)"
-    new "(transición)"
+    new "(transition)"
 
     # renpy/common/00director.rpy:1624
     old "(channel)"
-    new "(canal)"
+    new "(channel)"
 
     # renpy/common/00director.rpy:1625
     old "(filename)"
-    new "(nombre de archivo)"
+    new "(filename)"
 
     # renpy/common/00director.rpy:1654
     old "Change"
@@ -440,7 +440,7 @@ translate spanish strings:
 
     # renpy/common/00gui.rpy:449
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "La carga perderá el progreso no guardado. \n¿Estás seguro de que quieres hacer esto?"
+    new "Al cargar se perderá el progreso no guardado. \n¿Seguro que quieres hacer esto?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to quit?"
@@ -580,7 +580,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:423
     old "self voicing volume drop"
-    new "descenso de volumen de auto-voz"
+    new "caída de volumen de auto-voz"
 
     # renpy/common/00preferences.rpy:431
     old "clipboard voicing"
@@ -596,7 +596,7 @@ translate spanish strings:
 
     # renpy/common/00preferences.rpy:458
     old "rollback side"
-    new "lado de retorno"
+    new "lado de retroceso"
 
     # renpy/common/00preferences.rpy:468
     old "gl powersave"
