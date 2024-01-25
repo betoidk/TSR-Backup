@@ -4,4 +4,4 @@ translate spanish strings:
         new "El selector de capítulos puede contener spoilers de ciertas partes de la historia, ¿deseas continuar?"
 
         old "Notebook updated."
-        new "Cuaderno actualizado."
+        new "Libreta actualizada."
