@@ -384,7 +384,7 @@ translate spanish strings:
 
     # game/screens.rpy:1945
     old "{color=#000000}{font=willfont.ttf}Where was the body found? ASK TODD LATER. {/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}¿Dónde se encontró el cuerpo? PREGUNTARLE A TODD MÁS TARDE. {/font}{/color}"
+    new "{color=#383838}{font=willfont.ttf}¿Dónde se encontró el cuerpo? PREGUNTARLE A\nTODD MÁS TARDE. {/font}{/color}"
 
     # game/screens.rpy:1949
     old "{color=#000000} {font=willfont.ttf}Cliff claims Reed tries to break into his apartment.{/font} {/color}"
@@ -436,11 +436,39 @@ translate spanish strings:
 
     # game/screens.rpy:1997
     old "{color=#000000}{font=willfont.ttf}[etheltext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Ethel reaccionó ante una amenaza vacía de revelación. Probablemente ella sea la que está filtrando información a James.{/font}{/color}"
+    new "{color=#383838}{font=willfont.ttf}Ethel reaccionó ante una amenaza vacía de revelación. Probablemente ella sea la que está filtrando información\na James.{/font}{/color}"
 
     # game/screens.rpy:2001
-    old ""
-    new ""
+    old "{color=#000000}{font=willfont.ttf}[huxley4]{/font}{/color}"
+    new "{color=#383838}{font=willfont.ttf}El cuerpo estaba en una zanja.{/font}{/color}"
+
+    # game/screens.rpy:2009
+    old "{color=#000000}{font=willfont.ttf}[gumtext]{/font}{/color}"
+    new "{color=#383838}{font=willfont.ttf}Tutti-frutti.{/font}{/color}"
+    
+    # game/screens.rpy:2013
+    old "{color=#000000}{font=willfont.ttf}[kanetext]{/font}{/color}"
+    new "{color=#383838}{font=willfont.ttf}¿Siento ganas de cometer un error?\nTal vez.{/font}{/color}"
+
+    # game/screens.rpy:2017
+    old "{color=#000000}{font=willfont.ttf}[filmtext]{/font}{/color}"
+    new "{color=#383838}{font=willfont.ttf}Esto parece uno de los rollos de película que Murdoch ha usado antes.{/font}{/color}"
+
+    # game/screens.rpy:2021
+    old "{color=#000000}{font=willfont.ttf}[jartext]{/font}{/color}"
+    new "{color=#383838}{font=willfont.ttf}Una de estas flores es definitivamente artemisa.{/font}{/color}"
+
+    # game/screens.rpy:2025
+    old "{color=#000000}{font=willfont.ttf}[shroudtext]{/font}{/color}"
+    new "{color=#383838}{font=willfont.ttf}La mortaja de su abuela estaba en la cama... Tengo una buena idea de lo que encontraríamos si la abriéramos.{/font}{/color}"
+
+    # game/screens.rpy:2029
+    old "{color=#000000}{font=willfont.ttf}[dolltext] [marcydolltext]{/font}{/color}"
+    new "{color=#383838}{font=willfont.ttf}Una muñeca en el sótano. Solía pertenecer a la hermana de Marcy.{/font}{/color}"
+
+    # game/screens.rpy:2033
+    old "{color=#000000}{font=willfont.ttf}[samtoddtext]{/font}{/color}"
+    new "{color=#383838}{font=willfont.ttf}Resbaladizos, amigos...{/font}{/color}"
 
     # game/screens.rpy:2037
     old "{color=#000000}{font=willfont.ttf}Her eyes widen and I see the pushy attitude slip away.{/font}{/color}"
