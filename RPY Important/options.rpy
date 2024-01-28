@@ -35,7 +35,7 @@ define config.developer = True
 ## Text that is placed on the game's about screen. To insert a blank line
 ## between paragraphs, write \n\n.
 
-define gui.about = _("The Smoke Room was made possible thanks to our generous supporters on {a=https://patreon.com/EchoGame}Patreon{/a}.\n\n{color=#d9bc8b}A full credits list can be viewed at the end of the game.{/color}\n\nThe Smoke Room ©2022 Echo Project. All rights reserved. \n\n Interface made by PlaGa \n Translation made by Kane")
+define gui.about = _("The Smoke Room was made possible thanks to our generous supporters on {a=https://patreon.com/EchoGame}Patreon{/a}.\n\n{color=#d9bc8b}A full credits list can be viewed at the end of the game.{/color}\n\nThe Smoke Room ©2022 Echo Project. All rights reserved.\n\n Interface made by PlaGa.\nTranslation made by Kane.")
 
 
 ## A short name for the game used for executables and directories in the built

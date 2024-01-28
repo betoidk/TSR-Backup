@@ -132,7 +132,7 @@ translate spanish strings:
 
     # game/screens.rpy:860
     old "Unseen Text"
-    new "Texto no visto"
+    new "Texto Oculto"
 
     # game/screens.rpy:861
     old "After Choices"
@@ -156,19 +156,19 @@ translate spanish strings:
 
     # game/screens.rpy:881
     old "Text Speed"
-    new "Velocidad de texto"
+    new "Velocidad de Texto"
 
     # game/screens.rpy:885
     old "Auto-Forward Time"
-    new "Avance automático"
+    new "Avance Automático"
 
     # game/screens.rpy:892
     old "Music Volume"
-    new "Volumen de música"
+    new "Volumen de Música"
 
     # game/screens.rpy:899
     old "Sound Volume"
-    new "Volumen de sonido"
+    new "Volumen de Sonido"
 
     # game/screens.rpy:905
     old "Test"
@@ -176,11 +176,11 @@ translate spanish strings:
 
     # game/screens.rpy:909
     old "Voice Volume"
-    new "Volumen de voz"
+    new "Volumen de Voz"
 
     # game/screens.rpy:920
     old "Mute All"
-    new "Silenciar todo"
+    new "Silenciar Todo"
 
     # game/screens.rpy:945
     old "Chapter Select"
@@ -228,7 +228,7 @@ translate spanish strings:
 
     # game/screens.rpy:1235
     old "Navigate the interface."
-    new "Navega por la interfaz."
+    new "Navegar por la interfaz."
 
     # game/screens.rpy:1238
     old "Escape"
@@ -348,7 +348,7 @@ translate spanish strings:
 
     # game/screens.rpy:1724
     old "Notebook"
-    new "Libreta"
+    new "Cuaderno"
 
     # game/screens.rpy:1896
     old "Notes:"
@@ -369,111 +369,3 @@ translate spanish strings:
     # game/screens.rpy:1914
     old "Previous"
     new "Anterior"
-
-    # game/screens.rpy:1916
-    old "{color=#2c2c2c}Previous{/color}"
-    new "{color=#2c2c2c}Anterior{/color}"
-
-    # game/screens.rpy:1917
-    old "Close"
-    new "Cerrar"
-
-    # game/screens.rpy:1941
-    old "{color=#000000}{font=willfont.ttf}Huxley Greene is dead. His body was found frozen. Decapitated with ripping force.{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Huxley Greene está muerto. Su cuerpo fue encontrado sin vida. Decapitado con una fuerza descomunal.{/font}{/color}"
-
-    # game/screens.rpy:1945
-    old "{color=#000000}{font=willfont.ttf}Where was the body found? ASK TODD LATER. {/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}¿Dónde se encontró el cuerpo? PREGUNTARLE A\nTODD MÁS TARDE. {/font}{/color}"
-
-    # game/screens.rpy:1949
-    old "{color=#000000} {font=willfont.ttf}Cliff claims Reed tries to break into his apartment.{/font} {/color}"
-    new "{color=#383838} {font=willfont.ttf}Cliff afirma que Reed intenta entrar en su apartamento.{/font} {/color}"
-
-    # game/screens.rpy:1953
-    old "{color=#000000}{font=willfont.ttf}Cliff works with James for CSCG.{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Cliff trabaja con James en CSCG.{/font}{/color}"
-
-    # game/screens.rpy:1957
-    old "{color=#000000}{font=willfont.ttf}Cliff's real name is Cornelis. He claims he does not have his worker's permit.{/font} {/color}"
-    new "{color=#383838}{font=willfont.ttf}El nombre real de Cliff es Cornelis. Afirma que no tiene su permiso de trabajo.{/font} {/color}"
-
-    # game/screens.rpy:1961
-    old "{color=#000000}{font=willfont.ttf}[stagnighttext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}¿Harlan se pelea con James? Por lo general, mantiene las cosas de manera profesional.{/font}{/color}"
-
-    # game/screens.rpy:1965
-    old "{color=#000000}{font=willfont.ttf}[chnighttext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Al parecer, al menos una persona que trabaja en el Hip está filtrando información a James.{/font}{/color}"
-
-    # game/screens.rpy:1969
-    old "{color=#000000}{font=willfont.ttf}[huxley1]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Según Reed, la pistola de Huxley fue empeñada. Los registros de ventas indican que Huxley la volvió a comprar.{/font}{/color}"
-
-    # game/screens.rpy:1973
-    old "{color=#000000}{font=willfont.ttf}[huxley2]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Marcy podría saber qué pasó con la pistola.{/font}{/color}"
-
-    # game/screens.rpy:1977
-    old "{color=#000000}{font=willfont.ttf}[huxley3]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Huxley era un alcohólico que necesitaba más dinero para su adicción a la bebida. Me pregunto de dónde sacaba el dinero.{/font}{/color}"
-
-    # game/screens.rpy:1981
-    old "{color=#000000}{font=willfont.ttf}[jamestext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Hice sangrar a James. Fue divertido.{/font}{/color}"
-
-    # game/screens.rpy:1985
-    old "{color=#000000}{font=willfont.ttf}[changtext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}{s}¿Podría un empleado de CGCS haber ordenado matar a Cliff, o fue otra persona?{/s} Parece que los empleados leales a CGCS ni siquiera se llevan bien entre ellos. Algunos apoyan a James. Otros apoyan a Briggs.{/font}{/color}"
-
-    # game/screens.rpy:1989
-    old "{color=#000000}{font=willfont.ttf} Sam needs to sleep more. [cynthiatext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf} Sam necesita dormir más. Quizá Cynthia también{/font}{/color}"
-
-    # game/screens.rpy:1993
-    old "{color=#000000}{font=willfont.ttf}[harlantext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Harlan tiene rencor a James y tiene acceso regular a la mayoría de la información de Dora.{/font}{/color}"
-
-    # game/screens.rpy:1997
-    old "{color=#000000}{font=willfont.ttf}[etheltext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Ethel reaccionó ante una amenaza vacía de revelación. Probablemente ella sea la que está filtrando información\na James.{/font}{/color}"
-
-    # game/screens.rpy:2001
-    old "{color=#000000}{font=willfont.ttf}[huxley4]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}El cuerpo estaba en una zanja.{/font}{/color}"
-
-    # game/screens.rpy:2009
-    old "{color=#000000}{font=willfont.ttf}[gumtext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Tutti-frutti.{/font}{/color}"
-    
-    # game/screens.rpy:2013
-    old "{color=#000000}{font=willfont.ttf}[kanetext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}¿Siento ganas de cometer un error?\nTal vez.{/font}{/color}"
-
-    # game/screens.rpy:2017
-    old "{color=#000000}{font=willfont.ttf}[filmtext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Esto parece uno de los rollos de película que Murdoch ha usado antes.{/font}{/color}"
-
-    # game/screens.rpy:2021
-    old "{color=#000000}{font=willfont.ttf}[jartext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Una de estas flores es definitivamente artemisa.{/font}{/color}"
-
-    # game/screens.rpy:2025
-    old "{color=#000000}{font=willfont.ttf}[shroudtext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}La mortaja de su abuela estaba en la cama... Tengo una buena idea de lo que encontraríamos si la abriéramos.{/font}{/color}"
-
-    # game/screens.rpy:2029
-    old "{color=#000000}{font=willfont.ttf}[dolltext] [marcydolltext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Una muñeca en el sótano. Solía pertenecer a la hermana de Marcy.{/font}{/color}"
-
-    # game/screens.rpy:2033
-    old "{color=#000000}{font=willfont.ttf}[samtoddtext]{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Resbaladizos, amigos...{/font}{/color}"
-
-    # game/screens.rpy:2037
-    old "{color=#000000}{font=willfont.ttf}Her eyes widen and I see the pushy attitude slip away.{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Sus ojos se abren de par en par y veo cómo desaparece la actitud prepotente.{/font}{/color}"
-
-    # game/screens.rpy:2049
-    old "{color=#000000}{font=willfont.ttf}It looks like James wants to remove the power of Federal currency in Echo and replace it with CSCG redemption slips.{/font}{/color}"
-    new "{color=#383838}{font=willfont.ttf}Parece que James quiere eliminar el poder de la moneda federal en Echo y sustituirla con vales de canje de CSCG.{/font}{/color}"
