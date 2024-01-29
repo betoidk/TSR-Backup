@@ -369,3 +369,7 @@ translate spanish strings:
     # game/screens.rpy:1914
     old "Previous"
     new "Anterior"
+
+    # game/screens.rpy:1916
+    old "{color=#2c2c2c}Previous{/color}"
+    new "{color=#2c2c2c}Anterior{/color}"

@@ -22,7 +22,7 @@ translate spanish strings:
         new "{color=#383838} {font=willfont.ttf}Cliff afirma que Reed intento entrar en su apartamento.{/font} {/color}"
 
         old "{color=#000000}{font=willfont.ttf}Cliff works with James for CSCG.{/font}{/color}"
-        new "{color=#383838}{font=willfont.ttf}Cliff trabaja con James en CSCG.{/font}{/color}"
+        new "{color=#383838}{font=willfont.ttf}Cliff trabaja con James para CSCG.{/font}{/color}"
 
         old "{color=#000000}{font=willfont.ttf}Cliff's real name is Cornelis. He claims he does not have his worker's permit.{/font} {/color}"
         new "{color=#383838}{font=willfont.ttf}El nombre real de Cliff es Cornelis. Afirma que no tiene permiso de trabajo.{/font} {/color}"
@@ -94,7 +94,7 @@ translate spanish strings:
         new "{color=#383838}{font=willfont.ttf}[manortextes]{/font}{/color}"
 
         old "{color=#000000}{font=willfont.ttf}It looks like James wants to remove the power of Federal currency in Echo and replace it with CSCG redemption slips.{/font}{/color}"
-        new "{color=#383838}{font=willfont.ttf}Parece que James quiere eliminar el poder de la moneda federal en Echo y sustituirla con vales de canje de CSCG.{/font}{/color}"
+        new "{color=#383838}{font=willfont.ttf}Parece que James quiere eliminar el valor de la moneda federal en Echo y sustituirla con vales de canje de CSCG.{/font}{/color}"
 
         old "{color=#000000}{font=willfont.ttf}[hledgertext]{/font}{/color}"
         new "{color=#383838}{font=willfont.ttf}[hledgertextes]{/font}{/color}"
