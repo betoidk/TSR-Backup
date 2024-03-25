@@ -864,6 +864,12 @@ screen preferences():
                     textbutton _("Default") action [gui.SetPreference("font_a", "font/LibreBaskervilleRegular.ttf"), gui.SetPreference("font_b", "font/PlayfairDisplaySCBold.ttf"), gui.SetPreference("font_c", "font/LibreBaskervilleBold.ttf"), gui.SetPreference("font_leading", 1)]
                     textbutton _("OpenDyslexic") action [ gui.SetPreference("font_a", "font/OpenDyslexic3-Regular.ttf"), gui.SetPreference("font_b", "font/OpenDyslexic3-Bold.ttf"), gui.SetPreference("font_c", "font/OpenDyslexic3-Regular.ttf"), gui.SetPreference("font_leading", -10)]
 
+                vbox:
+                    style_prefix "check"
+                    laben _("Language")
+                    textbutton _("English") action [Language(None),setVariable("persistent.lengua",If(persistent.lengua==True,persistent.lengua==False))]
+                    textbutton _("Spanish") action [Language("spanish"),setVariable("persistent.lengua",True)]
+                
             null height (4 * gui.pref_spacing)
 
             hbox:
