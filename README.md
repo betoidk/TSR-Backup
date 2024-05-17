@@ -5,3 +5,5 @@ Hola, aquí se guardará todos los datos de traducción en caso de que los datos
 -	Videos. 🎥🎀
 -	Diálogos. 💬🎀
 -	Etc. 📚🎀
+
+> PROYECTO CANCELADO... NO TENDRA MAS COMMITS
