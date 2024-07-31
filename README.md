@@ -13,3 +13,9 @@
 
 > 📖 Créditos a [Echo Project](https://echoproject.itch.io/)
 > 
+
+> [!NOTE]
+> Rama estable **master**.
+
+> [!WARING]
+> Rama inestable **Beta**.
