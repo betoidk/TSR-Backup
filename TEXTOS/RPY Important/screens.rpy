@@ -869,7 +869,7 @@ screen preferences():
                     label _("Language")
                     textbutton _("English") action [Language(None),SetVariable("persistent.lengua",If(persistent.lengua==True,persistent.lengua==False))]
                     textbutton _("Spanish") action [Language("spanish"),SetVariable("persistent.lengua",True)]
-
+                
             null height (4 * gui.pref_spacing)
 
             hbox:
@@ -983,7 +983,7 @@ screen nik_select():
             imagebutton idle "images/thumbnails/nikthumb3.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 4), Hide("confirm"))
             imagebutton idle "images/thumbnails/puthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 5), Hide("confirm"))
             imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "Nikolai", 6), Hide("confirm"))
-        add "sprites/nik/Happy/happy.webp" xpos 820 xysize(800, 800) ypos -400 alpha 0.55
+        add "sprites/nik/nik smile.webp" xpos 820 xysize(800, 800) ypos -400 alpha 0.55
 
 screen will_select():
     vbox:
@@ -994,8 +994,8 @@ screen will_select():
             imagebutton idle "images/thumbnails/samthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 1), Hide("confirm"))
             imagebutton idle "images/thumbnails/wilthumb1.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 2), Hide("confirm"))
             imagebutton idle "images/thumbnails/wilthumb2.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 3), Hide("confirm"))
-            imagebutton idle "images/thumbnails/rrthumb.png" action Confirm(spoiler_message, Function(call_chapter_select, "William", 4), Hide("confirm"))
-            imagebutton idle "images/thumbnails/puthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 5), Hide("confirm"))
+            imagebutton idle "images/thumbnails/puthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 4), Hide("confirm"))
+            imagebutton idle "images/thumbnails/luthumb.webp" action Confirm(spoiler_message, Function(call_chapter_select, "William", 5), Hide("confirm"))
             null
         add "sprites/william/wil smile.webp" xpos 800 xysize(800, 800) ypos -400 alpha 0.55
 
@@ -1803,16 +1803,20 @@ init python:
             "image": "wn18",
         },
         {
-            "text": "{color=#000000}{font=willfont.ttf}[samtoddtext]{/font}{/color}",
-            "image": "musky",
-        },
-        {
             "text": "{color=#000000}{font=willfont.ttf}[jartext]{/font}{/color}",
             "image": "wn19",
         },
         {
+            "text": "{color=#000000}{font=willfont.ttf}[shroudtext]{/font}{/color}",
+            "image": "wn15",
+        },
+        {
             "text": "{color=#000000}{font=willfont.ttf}[dolltext] [marcydolltext]{/font}{/color}",
             "image": "wn20",
+        },
+        {
+            "text": "{color=#000000}{font=willfont.ttf}[samtoddtext]{/font}{/color}",
+            "image": "musky",
         },
         {
             "text": "{color=#000000}{font=willfont.ttf}[murdochtext]{/font}{/color}",
@@ -1845,10 +1849,6 @@ init python:
         {
             "text": "{color=#000000}{font=willfont.ttf}[ethelclifftext]{/font}{/color}",
             "image": "ethelcliff",
-        },
-        {
-            "text": "{color=#000000}{font=willfont.ttf}[shroudtext]{/font}{/color}",
-            "image": "wn15",
         }
     ]
 default unlocked_journal_pages = 0
@@ -2014,16 +2014,20 @@ init python:
             "image": "wn18",
         },
         {
-            "text": "{color=#000000}{font=willfont.ttf}[samtoddtext]{/font}{/color}",
-            "image": "musky",
-        },
-        {
             "text": "{color=#000000}{font=willfont.ttf}[jartext]{/font}{/color}",
             "image": "wn19",
         },
         {
+            "text": "{color=#000000}{font=willfont.ttf}[shroudtext]{/font}{/color}",
+            "image": "wn15",
+        },
+        {
             "text": "{color=#000000}{font=willfont.ttf}[dolltext] [marcydolltext]{/font}{/color}",
             "image": "wn20",
+        },
+        {
+            "text": "{color=#000000}{font=willfont.ttf}[samtoddtext]{/font}{/color}",
+            "image": "musky",
         },
         {
             "text": "{color=#000000}{font=willfont.ttf}[murdochtext]{/font}{/color}",
@@ -2056,10 +2060,6 @@ init python:
         {
             "text": "{color=#000000}{font=willfont.ttf}[ethelclifftext]{/font}{/color}",
             "image": "ethelcliff",
-        },
-        {
-            "text": "{color=#000000}{font=willfont.ttf}[shroudtext]{/font}{/color}",
-            "image": "wn15",
         }
         ]
 
