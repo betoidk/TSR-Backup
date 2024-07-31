@@ -17,5 +17,5 @@
 > [!NOTE]
 > Rama estable **master**.
 
-> [!WARING]
+> [!WARNING]
 > Rama inestable **Beta**.
