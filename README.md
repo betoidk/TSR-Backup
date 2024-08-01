@@ -1,7 +1,6 @@
 # The Smoke Room Backup
 
 - Esta es una copia de seguridad de los archivos del The Smoke Room.
-
 - Archivos:
     - RPY.
     - Imágenes.
