@@ -59,29 +59,30 @@ $ murdochtext = "It's probably nothing."
 $ portraittext = "I need to get a good look at the portrait of James the First..."
 $ manortext = "Is there anything James is hiding?"
 $ investigorder = "first"
-$ chnighttextes = "Debería ir al ayuntamiento"
-$ stagnighttextes = " Me pregunto qué podrían ofrecer la gente del ciervo."
+
+$ chnighttextes = "Debería ir al ayuntamiento."
+$ stagnighttextes = "¿Me pregunto qué podrían ofrecer la gente del ciervo?"
 $ cynthiatextes = ".."
-$ jamestextes = " Hendricks suele estar metido en algo. Lo peor es que probablemente no sea ilegal."
+$ jamestextes = "Hendricks suele esta metido en algo. Lo peor es que, probablemente no sea ilegal."
 $ portertextes = "El Ayuntamiento guarda muchos secretos."
-$ changtextes = "¿Podría un empleado de CGCS haber ordenado matar a Cliff, o fue otra persona?"
+$ changtextes = "¿Podría un empleado de CGCS haber ordenado el asesinato de Cliff, o fue otra persona?"
 $ huxley1es = "Necesito encontrar a Reed."
-$ huxley2es = "Marcy podría saber qué pasó con el arma."
-$ huxley3es = "Entonces, ¿qué estaba haciendo Reed si no mató a Cliff?"
-$ etheltextes = "Los trabajadores del Hip son la major fuente de información del pueblo."
+$ huxley2es = "Marcy podría saber que paso con el arma."
+$ huxley3es = "Entonces, ¿qué estaba haciendo Reed si no ordenó el asesinato de Cliff?"
+$ etheltextes = "Los trabajadores del Hip son la mejor fuente de información del pueblo"
 $ harlantextes = "El personal del Hip convirtió un salón en medio de la nada en una atracción de fama mundial."
 $ huxley4es = "El cuerpo estaba en una zanja."
 $ gumtextes = "Tutti-frutti."
-$ kanetextes = "¿Siento ganas de cometer un error?\nTal vez."
+$ kanetextes = "¿Tengo ganas de cometer un error?\nTal vez."
 $ filmtextes = "Esto parece uno de los rollos de película que Murdoch ha usado antes."
 $ jartextes = "Una de estas flores es definitivamente artemisa."
 $ dolltextes = "Una muñeca en el sótano."
 $ marcydolltextes = "..."
-$ samtoddtextes = "Calenturientos, amigos..."
-$ shroudtextes = "La mortaja de su abuela estaba en la cama... Tengo una buena idea de lo que encontraríamos si la abriéramos."
+$ samtoddtextes = "Calenturientos, muchachos..."
+$ shroudtextes = "El sudario de su abuela estaba en la cama... Tengo una buena idea de lo que encontraríamos si lo abriéramos."
 $ murdochtextes = "Probablemente no sea nada."
 $ portraittextes = "Necesito ver bien el retrato de\nJames I..."
-$ manortextes = "¿Hay algo que James esté ocultando?"
+$ manortextes = "¿Hay algo qué James esté escondiendo?"
 $ investigorderes = "primero"
 $ KaneChoice = False
 
@@ -185,7 +186,7 @@ menu:
         $ STAGNIGHT_Points +=1
         $ MININT_Points +=1
         $ stagnighttext = "Harlan gets into fights with James? He usually keeps things professional."
-        $ stagnighttextes = "¿Harlan se pelea con James? Suele mantener las cosas con profesionalidad."
+        $ stagnighttextes = "¿Harlan se pelea con James? Normalmente mantiene las cosas profesionalidad."
         $ willstag1interview2 = True
 
     "The Stag.":
@@ -194,19 +195,20 @@ menu:
         $ CITYHALLNIGHT_Points +=1
         $ PORINT_Points +=1
         $ chnighttext = "Apparently, at least one person who works at the hip is leaking information to James."
-        $ chnighttextes = "Al parecer, al menos una persona que trabaja en el Hip está filtrando información a James."
+        $ chnighttextes = "Aparentemente, al menos una persona que trabaja en el Hip está filtrando información a James."
 
 
 $ huxley1 = "According to Reed, Huxley's gun was pawned. Sales records indicate Huxley repurchased it."
-$ huxley1es = "Según Reed, el arma de Huxley fue empeñada. Los registros de ventas indican que Huxley la recompró."
 $ huxley3 = "Huxley was an alcoholic who needed more money for his drinking habit. I wonder where he was getting the cash?"
-$ huxley3es = "Huxley era un alcohólico que necesitaba más dinero para su adicción a la bebida. Me pregunto de dónde sacaba el dinero."
 $ huxley2 = "Marcy may know what happened to the gun."
-$ huxley2es = "Marcy podría saber qué pasó con el arma."
 $ changtext = "{s}Could a CGCS employee placed a hit on Cliff, or was it somebody else?{/s} Seems like the CGCS employees loyal to the company don't even get along. Some favor James. Some favor Briggs."
-$ changtextes = "{s}¿Podría un empleado de CGCS haber ordenado matar a Cliff, o fue otra persona?{/s} Parece que los empleados leales a CGCS ni siquiera se llevan bien entre ellos. Algunos apoyan a James. Otros apoyan a Briggs."
 $ jamestext = "Made James bleed. Was funny."
-$ jamestextes = "Hice sangrar a James. Fue divertido."
+
+$ huxley1es = "Según Reed, la arma de Huxley fue empeñada. Los registros de ventas indican que Huxley la recompró."
+$ huxley3es = "Huxley era un alcohólico que necesitaba más dinero para su adicción de beber. Me pregunto de dónde obtenía el dinero."
+$ huxley2es = "Marcy puede saber que pasó con la arma."
+$ changtextes = "{s}¿Podría un empleado de CGCS haber ordenado el asesinato de Cliff, o fue otra persona?{/s} Parece que los empleados leales a la empresa ni siquiera se llevan bien entre ellos. Algunos están a favor de James. Otros están a favor de Briggs."
+$ jamestextes = "Hice sangrar a James. Fue gracioso."
 $ jamesimage = "wn8"
 $ willchall1interview = True
 $ willchall2interview = True
@@ -215,7 +217,7 @@ $ willstag2interview2 = True
 $ willstag3interview = True
 $ unlocked_journal_pages += 2
 $ cynthiatext = "Maybe Cynthia does too."
-$ cynthiatextes = "Quizá Cynthia también."
+$ cynthiatextes = "Tal vez Cynthia también."
 
 
 
@@ -229,21 +231,19 @@ menu:
         if  MININT_Points > 0:
             $ HARINT_Points += 1
             $ harlantext = "Harlan has a grudge against James and has regular access to most of Dora's information."
-            $ harlantextes = "Harlan guarda rencor a James y tiene acceso regular a la mayor parte de la información de Dora."
+            $ harlantextes = "Harlan tiene un rencor contra James y tiene acceso regular a la mayor parte de la información de Dora."
 
     "Ethel.":
         if  PORINT_Points > 0:
             $ ETHINT_Points +=1
             $ etheltext = "Ethel reacted to a hollow threat of exposure. She's probably the one leaking information to James."
-            $ etheltextes = "Ethel reaccionó a una amenaza vacía de revelación. Ella es probablemente la que filtra información a James."
+            $ etheltextes = "Ethel reaccionó a una amenaza vacía de exposición. Probablemente ella sea quien está filtrando información a James."
 
     "Cynthia.":
         $ CYNINT_Points +=1
 
-$ unlocked_journal_pages += 9
-$ marcydolltext = "It used to belong to Marcy's sister."
-$ marcydolltextes = "Solía pertenecer a la hermana de Marcy."
-$ current_journal_page = 23
+$ unlocked_journal_pages += 4
+$ current_journal_page = 18
 
 if (chapter_value == 4):
     stop music fadeout 3.0
@@ -251,14 +251,10 @@ if (chapter_value == 4):
     stop background fadeout 3.0
     stop sound
     pause 1.0
-    play music "music/quiet.ogg" fadein 3.0
     window show
-    scene bg darkroom
-    show mur shock at center,red
-    show gre f frown at left,red
-    with dissolve
-    jump williamroute3b
+    jump updatemarcy
 
+$ unlocked_journal_pages += 4
 $ willmanorportrait1 = True
 $ willmanorkitchen1 = True
 $ willmanorlivingroom1 = True
@@ -266,11 +262,11 @@ $ willjamesfile = True
 $ willjamesfolder = True
 $ willjamestrash = True
 $ portraittext = "The Hendricks house has hollow walls that the owners claim not to understand, entirely. The painting at the top of the stairs in the foyer has hinges."
-$ portraittextes = "La casa de los Hendricks tiene paredes huecas que los propietarios dicen no entender, del todo. El cuadro que hay en lo alto de la escalera del vestíbulo tiene bisagras."
+$ portraittextes = "La casa de los Hendricks tienes paredes huecas que los propietarios afirman no entender del todo. El cuadro en la parte superior de las escaleras en el vestíbulo tiene bisagras."
 $ manortext = "There is a vanity full of hand mirrors near the basement of the Hendricks mansion. The amount and variety of them is more than excessive."
-$ manortextes = "Hay un tocador lleno de espejos de mano cerca del sótano de la mansión Hendricks. La cantidad y variedad de ellos es más que excesiva."
+$ manortextes = "Hay un tocador lleno de espejos de mano cerca del sótano de la mansión de los Hendricks. La cantidad y variedad de ellos es más que excesiva."
 $ unlocked_journal_pages += 4
-$ current_journal_page = 27
+$ current_journal_page = 26
 
 if (chapter_value == 5):
     stop music fadeout 3.0
