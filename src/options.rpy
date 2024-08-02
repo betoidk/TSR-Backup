@@ -28,7 +28,7 @@ define config.version = "35"
 # Development Mode
 # If it's set to "True" in a published build, Kardamon was tired
 
-define config.developer = False
+define config.developer = True
 
 ## Uncomment the below to preview Android UI
 ##define config.variants = ["touch", "small", None]
