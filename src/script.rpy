@@ -324,8 +324,6 @@ image bg redroad3 = "images/backgrounds/redroad3.webp"
 image bg redroad4 = "images/backgrounds/redroad4.webp"
 image bg redtrapped = "images/backgrounds/redtrapped.webp"
 image bg samcg1 = "images/backgrounds/samcg1.webp"
-
-
 image bg redsunflowers1 = "images/backgrounds/redsunflowers1.webp"
 image bg redsunflowers2 = "images/backgrounds/redsunflowers2.webp"
 image bg redorchard = "images/backgrounds/redorchard.webp"
@@ -339,45 +337,6 @@ image bg eye1 = "images/backgrounds/eye1.webp"
 image bg eye2 = "images/backgrounds/eye2.webp"
 image bg mansionwindow = "images/backgrounds/mansionwindow.webp"
 image bg mansionprecipice = "images/backgrounds/mansionprecipice.webp"
-
-#redcloset sequence - will optimize these files once time allows
-image bg redcloset0 = "images/backgrounds/redcloset/redcloset0.webp"
-image bg redcloset1_0 = "images/backgrounds/redcloset/redcloset1-0.jpg"
-image bg redcloset1_1 = "images/backgrounds/redcloset/redcloset1-1.jpg"
-image bg redcloset1_2 = "images/backgrounds/redcloset/redcloset1-2.jpg"
-image bg redcloset1_3 = "images/backgrounds/redcloset/redcloset1-3.jpg"
-image bg redcloset1_4 = "images/backgrounds/redcloset/redcloset1-4.jpg"
-image bg redcloset1_5 = "images/backgrounds/redcloset/redcloset1-5.jpg"
-image bg redcloset1_6 = "images/backgrounds/redcloset/redcloset1-6.jpg"
-image bg redcloset1_7 = "images/backgrounds/redcloset/redcloset1-7.jpg"
-image bg redcloset1_8 = "images/backgrounds/redcloset/redcloset1-8.jpg"
-image bg redcloset1_9 = "images/backgrounds/redcloset/redcloset1-9.jpg"
-image bg redcloset2_1 = "images/backgrounds/redcloset/redcloset2-1.jpg"
-image bg redcloset2_2 = "images/backgrounds/redcloset/redcloset2-2.jpg"
-image bg redcloset3_1 = "images/backgrounds/redcloset/redcloset3-1.jpg"
-image bg redcloset4_1 = "images/backgrounds/redcloset/redcloset4-1.jpg"
-image bg redcloset4_2 = "images/backgrounds/redcloset/redcloset4-2.jpg"
-image bg redcloset5_1 = "images/backgrounds/redcloset/redcloset5-1.jpg"
-image bg redcloset5_2 = "images/backgrounds/redcloset/redcloset5-2.jpg"
-image bg redcloset6_1 = "images/backgrounds/redcloset/redcloset6-1.jpg"
-image bg redcloset6_2 = "images/backgrounds/redcloset/redcloset6-2.jpg"
-image bg redcloset6_3 = "images/backgrounds/redcloset/redcloset6-3.jpg"
-image bg redcloset6_4 = "images/backgrounds/redcloset/redcloset6-4.jpg"
-image bg redcloset6_5 = "images/backgrounds/redcloset/redcloset6-5.jpg"
-image bg redcloset7_1 = "images/backgrounds/redcloset/redcloset7-1.jpg"
-image bg redcloset7_2 = "images/backgrounds/redcloset/redcloset7-2.jpg"
-image bg redcloset7_3 = "images/backgrounds/redcloset/redcloset7-3.jpg"
-image bg redcloset8_1 = "images/backgrounds/redcloset/redcloset8-1.jpg"
-image bg redcloset8_2 = "images/backgrounds/redcloset/redcloset8-2.jpg"
-image bg redcloset8_3 = "images/backgrounds/redcloset/redcloset8-3.jpg"
-image bg redcloset8_4 = "images/backgrounds/redcloset/redcloset8-4.jpg"
-image bg redcloset9_1 = "images/backgrounds/redcloset/redcloset9-1.jpg"
-image bg redcloset10_1 = "images/backgrounds/redcloset/redcloset10-1.jpg"
-image bg redcloset10_2 = "images/backgrounds/redcloset/redcloset10-2.jpg"
-image bg redcloset11_1 = "images/backgrounds/redcloset/redcloset11-1.jpg"
-image bg redcloset11_2 = "images/backgrounds/redcloset/redcloset11-2.jpg"
-image bg redcloset11_3 = "images/backgrounds/redcloset/redcloset11-3.jpg"
-
 image bg printingpress = "images/backgrounds/printingpress.webp"
 image bg presssign = "images/backgrounds/presssign.webp"
 image bg briggsbarns = "images/backgrounds/briggsbarns.webp"
@@ -388,6 +347,79 @@ image bg minequarryevening = "images/backgrounds/minequarryevening.webp"
 image bg nationalguardarrival = "images/backgrounds/nationalguardarrival.webp"
 image bg nikcg9a = "images/backgrounds/nikcg9a.webp"
 image bg nikcg9b = "images/backgrounds/nikcg9b.webp"
+image bg gymbarnupday = "images/backgrounds/gymbarnupday.webp"
+image bg stagforest = "images/backgrounds/stagforest.webp"
+
+#redcloset sequence
+image bg redcloset0 = "images/backgrounds/redcloset/redcloset0.webp"
+image bg redcloset1_0 = "images/backgrounds/redcloset/redcloset1-0.webp"
+image bg redcloset1_1 = "images/backgrounds/redcloset/redcloset1-1.webp"
+image bg redcloset1_2 = "images/backgrounds/redcloset/redcloset1-2.webp"
+image bg redcloset1_3 = "images/backgrounds/redcloset/redcloset1-3.webp"
+image bg redcloset1_4 = "images/backgrounds/redcloset/redcloset1-4.webp"
+image bg redcloset1_5 = "images/backgrounds/redcloset/redcloset1-5.webp"
+image bg redcloset1_6 = "images/backgrounds/redcloset/redcloset1-6.webp"
+image bg redcloset1_7 = "images/backgrounds/redcloset/redcloset1-7.webp"
+image bg redcloset1_8 = "images/backgrounds/redcloset/redcloset1-8.webp"
+image bg redcloset1_9 = "images/backgrounds/redcloset/redcloset1-9.webp"
+image bg redcloset2_1 = "images/backgrounds/redcloset/redcloset2-1.webp"
+image bg redcloset2_2 = "images/backgrounds/redcloset/redcloset2-2.webp"
+image bg redcloset3_1 = "images/backgrounds/redcloset/redcloset3-1.webp"
+image bg redcloset4_1 = "images/backgrounds/redcloset/redcloset4-1.webp"
+image bg redcloset4_2 = "images/backgrounds/redcloset/redcloset4-2.webp"
+image bg redcloset5_1 = "images/backgrounds/redcloset/redcloset5-1.webp"
+image bg redcloset5_2 = "images/backgrounds/redcloset/redcloset5-2.webp"
+image bg redcloset6_1 = "images/backgrounds/redcloset/redcloset6-1.webp"
+image bg redcloset6_2 = "images/backgrounds/redcloset/redcloset6-2.webp"
+image bg redcloset6_3 = "images/backgrounds/redcloset/redcloset6-3.webp"
+image bg redcloset6_4 = "images/backgrounds/redcloset/redcloset6-4.webp"
+image bg redcloset6_5 = "images/backgrounds/redcloset/redcloset6-5.webp"
+image bg redcloset7_1 = "images/backgrounds/redcloset/redcloset7-1.webp"
+image bg redcloset7_2 = "images/backgrounds/redcloset/redcloset7-2.webp"
+image bg redcloset7_3 = "images/backgrounds/redcloset/redcloset7-3.webp"
+image bg redcloset8_1 = "images/backgrounds/redcloset/redcloset8-1.webp"
+image bg redcloset8_2 = "images/backgrounds/redcloset/redcloset8-2.webp"
+image bg redcloset8_3 = "images/backgrounds/redcloset/redcloset8-3.webp"
+image bg redcloset8_4 = "images/backgrounds/redcloset/redcloset8-4.webp"
+image bg redcloset9_1 = "images/backgrounds/redcloset/redcloset9-1.webp"
+image bg redcloset10_1 = "images/backgrounds/redcloset/redcloset10-1.webp"
+image bg redcloset10_2 = "images/backgrounds/redcloset/redcloset10-2.webp"
+image bg redcloset11_1 = "images/backgrounds/redcloset/redcloset11-1.webp"
+image bg redcloset11_2 = "images/backgrounds/redcloset/redcloset11-2.webp"
+image bg redcloset11_3 = "images/backgrounds/redcloset/redcloset11-3.webp"
+
+
+
+
+
+image bg quarrybarricadeevening = "images/backgrounds/minequarryevening.webp"
+image bg mineentranceevening = "images/backgrounds/mineentranceevening.webp"
+image bg mineforemandoor = "images/backgrounds/mineforemandoor.webp"
+image bg mineforemanoffice = "images/backgrounds/mineforemanoffice.webp"
+image bg cavebeam1 = "images/backgrounds/cavebeam1.webp"
+image bg cavecrate1 = "images/backgrounds/cavecrate1.webp"
+image bg cavecrate2 = "images/backgrounds/cavecrate2.webp"
+image bg cavecrate3 = "images/backgrounds/cavecrate3.webp"
+image bg cavepassage = "images/backgrounds/cavepassage.webp"
+image bg caveelevator = "images/backgrounds/caveelevator.webp"
+image bg crystal entrance2 = "images/backgrounds/crystal entrance2.webp"
+image bg crystal corridor2 = "images/backgrounds/crystal corridor2.webp"
+image bg crystal corridor3 = "images/backgrounds/crystal corridor3.webp"
+image bg crystalgate1 = "images/backgrounds/crystalgate1.webp"
+image bg crystalgate2 = "images/backgrounds/crystalgate2.webp"
+image bg gateclimb1 = "images/backgrounds/gateclimb1.webp"
+image bg gateclimb2 = "images/backgrounds/gateclimb2.webp"
+image bg gateclimb3 = "images/backgrounds/gateclimb3.webp"
+image bg gateclimb4 = "images/backgrounds/gateclimb4.webp"
+image bg pastgate = "images/backgrounds/pastgate.webp"
+image bg cavelight = "images/backgrounds/cavelight.webp"
+#image bg spiderdrag = "images/backgrounds/spiderdrag.webp"
+image bg desertfire = "images/backgrounds/desertfire.webp"
+image bg mansionfire = "images/backgrounds/mansionfire.webp"
+#image bg echofire = "images/backgrounds/echobackalleysunset.webp"
+image bg saloonfire = "images/backgrounds/saloonfire.webp"
+image bg echored = "images/backgrounds/echored.webp"
+
 
 
 #Effects
@@ -418,6 +450,8 @@ define ra = Character('Ralph', color="#C70039", screen="sayMore", show_col="#C70
 define ya = Character('Yao', color="#DC9831", screen="sayMore", show_col="#DC9831", image="yao")
 define no = Character('???', color="#ff3333", screen="sayMore", show_col="#ff3333", what_font="sin.ttf")
 define no2 = Character('???', color="#255226", screen="sayMore", show_col="#255226", what_font="sin.ttf")
+define no3 = Character('???', color="#202020", screen="sayMore", show_col="#202020", what_font="font/forbid.ttf")
+define no3a = Character('???', color="#FFFFFF", screen="sayMore", show_col="#FFFFFF", what_font="font/forbid.ttf")
 define bl = Character('Blithe', color="#ccccff", screen="sayMore", show_col="#ccccff")
 define al = Character('Alfred', color="#b7a5a1", screen="sayMore", show_col="#b7a5a1")
 define gr = Character('Gretchen', color="#e69900", screen="sayMore", show_col="#e69900")
@@ -923,6 +957,19 @@ image wil sideeyes b = "images/sprites/william/wil sideeyes b.webp"
 image wil surprised b = "images/sprites/william/wil surprised b.webp"
 image wil talking b = "images/sprites/william/wil talking b.webp"
 
+##no watch
+
+image wil nw = "images/sprites/william/wil nw.webp"
+image wil embarrassed nw = "images/sprites/william/wil embarrassed nw.webp"
+image wil eyes smile nw = "images/sprites/william/wil eyes smile nw.webp"
+image wil eyes nw = "images/sprites/william/wil eyes nw.webp"
+image wil eyes talking nw = "images/sprites/william/wil eyes talking nw.webp"
+image wil sideeyes nw = "images/sprites/william/wil sideeyes nw.webp"
+image wil smile nw = "images/sprites/william/wil smile nw.webp"
+image wil surprised nw = "images/sprites/william/wil surprised nw.webp"
+image wil talking nw = "images/sprites/william/wil talking nw.webp"
+
+
 ##Cynthia
 image cyn = "images/sprites/cynthia/cyn.webp"
 image cyn angry = "images/sprites/cynthia/cynangry.webp"
@@ -1022,6 +1069,17 @@ image tod arms annoyed p = "images/sprites/todd/tod arms annoyed p.webp"
 image tod arms surprised p = "images/sprites/todd/tod arms surprised p.webp"
 image tod arms yell p = "images/sprites/todd/tod arms yell p.webp"
 
+##nude
+image tod n = "images/sprites/todd/tod n.webp"
+image tod angry n= "images/sprites/todd/tod angry n.webp"
+image tod annoyed n = "images/sprites/todd/tod annoyed n.webp"
+image tod happy n = "images/sprites/todd/tod happy n.webp"
+image tod sad n = "images/sprites/todd/tod sad n.webp"
+image tod surprised n = "images/sprites/todd/tod surprised n.webp"
+image tod talking n = "images/sprites/todd/tod talking n.webp"
+image tod sigh n = "images/sprites/todd/tod sigh n.webp"
+
+image tod arms sigh n = "images/sprites/todd/tod arms sigh n.webp"
 
 ##James
 image jam = "images/sprites/james/jam.webp"
@@ -1273,6 +1331,7 @@ image dim surprised talking = "images/sprites/dimitri/dim surprised talking.webp
 image dim smile = "images/sprites/dimitri/dim smile.webp"
 image dim smile talking = "images/sprites/dimitri/dim smile talking.webp"
 image dim eyes = "images/sprites/dimitri/dim eyes.webp"
+image dim eyes talking = "images/sprites/dimitri/dim eyes talking.webp"
 image dim eyes smile = "images/sprites/dimitri/dim eyes smile.webp"
 image dim eyes smile talking = "images/sprites/dimitri/dim eyes smile talking.webp"
 image dim angry = "images/sprites/dimitri/dim angry.webp"
@@ -1286,6 +1345,7 @@ image dim coat surprised talking = "images/sprites/dimitri/dim coat surprised ta
 image dim coat smile = "images/sprites/dimitri/dim coat smile.webp"
 image dim coat smile talking = "images/sprites/dimitri/dim coat smile talking.webp"
 image dim coat eyes = "images/sprites/dimitri/dim coat eyes.webp"
+image dim coat eyes talking = "images/sprites/dimitri/dim coat eyes talking.webp"
 image dim coat eyes smile = "images/sprites/dimitri/dim coat eyes smile.webp"
 image dim coat eyes smile talking = "images/sprites/dimitri/dim coat eyes smile talking.webp"
 image dim coat angry = "images/sprites/dimitri/dim coat angry.webp"
@@ -1549,6 +1609,7 @@ image willnote1 = "images/sprites/paw/willnote1.webp"
 image willnote2 = "images/sprites/paw/willnote2.webp"
 image willnote3 = "images/sprites/paw/willnote3.webp"
 image stone1 = "images/sprites/paw/stone1.webp"
+image yaonotegetout = "images/backgrounds/yaonotegetout.webp"
 
 ##overlays
 image map1 h1 = "images/sprites/overlays/map1 h1.webp"
@@ -2065,8 +2126,8 @@ init python:
     renpy.music.register_channel("loop", mixer="music", loop=True, tight=True)
     renpy.music.register_channel("ambient", mixer="music",loop=True,tight=True)
     renpy.music.register_channel("ambient2", mixer="music",loop=True,tight=True)
-    renpy.music.register_channel("sound2","sfx",loop=False,tight=True)
-    renpy.music.register_channel("sound3","sfx",loop=False,tight=True)
+    renpy.music.register_channel("sound2", mixer="sfx",loop=False,tight=True)
+    renpy.music.register_channel("sound3", mixer="sfx",loop=False,tight=True)
     renpy.music.register_channel("music2", mixer="music",loop=True,tight=True)
 
 
@@ -2151,6 +2212,7 @@ default CorMor = 0
 default FollowCM = False
 default PD_Points = 0
 default KaneChoice = False
+default SWNChoice = False
 
 # Menu Constants
 define spoiler_message = "Chapter selection may contain spoilers for certain parts of the story, do you wish to proceed?"
@@ -2187,29 +2249,29 @@ define hledgertext = "???"
 define hlettertext = "???"
 define ethelclifftext = "???"
 
-define chnighttextes = "Debería ir al ayuntamiento"
-define stagnighttextes = " Me pregunto qué podrían ofrecer la gente del ciervo."
+define chnighttextes = "Debería ir al ayuntamiento."
+define stagnighttextes = "¿Me pregunto qué podrían ofrecer la gente del ciervo?"
 define cynthiatextes = ".."
-define jamestextes = " Hendricks suele estar metido en algo. Lo peor es que probablemente no sea ilegal."
+define jamestextes = "Hendricks suele esta metido en algo. Lo peor es que, probablemente no sea ilegal."
 define portertextes = "El Ayuntamiento guarda muchos secretos."
-define changtextes = "¿Podría un empleado de CGCS haber ordenado matar a Cliff, o fue otra persona?"
+define changtextes = "¿Podría un empleado de CGCS haber ordenado el asesinato de Cliff, o fue otra persona?"
 define huxley1es = "Necesito encontrar a Reed."
-define huxley2es = "Marcy podría saber qué pasó con el arma."
-define huxley3es = "Entonces, ¿qué estaba haciendo Reed si no mató a Cliff?"
-define etheltextes = "Los trabajadores del Hip son la major fuente de información del pueblo."
+define huxley2es = "Marcy podría saber que paso con el arma."
+define huxley3es = "Entonces, ¿qué estaba haciendo Reed si no ordenó el asesinato de Cliff?"
+define etheltextes = "Los trabajadores del Hip son la mejor fuente de información del pueblo."
 define harlantextes = "El personal del Hip convirtió un salón en medio de la nada en una atracción de fama mundial."
 define huxley4es = "El cuerpo estaba en una zanja."
 define gumtextes = "Tutti-frutti."
-define kanetextes = "¿Siento ganas de cometer un error?\nTal vez."
+define kanetextes = "¿Tengo ganas de cometer un error?\nTal vez."
 define filmtextes = "Esto parece uno de los rollos de película que Murdoch ha usado antes."
 define jartextes = "Una de estas flores es definitivamente artemisa."
 define dolltextes = "Una muñeca en el sótano."
 define marcydolltextes = "..."
-define samtoddtextes = "Calenturientos, amigos..."
-define shroudtextes = "La mortaja de su abuela estaba en la cama... Tengo una buena idea de lo que encontraríamos si la abriéramos."
+define samtoddtextes = "Calenturientos, muchachos..."
+define shroudtextes = "El sudario de su abuela estaba en la cama... Tengo una buena idea de lo que encontraríamos si lo abriéramos."
 define murdochtextes = "Probablemente no sea nada."
-define portraittextes = "Necesito ver bien el retrato de\nJames Primero..."
-define manortextes = "¿Hay algo que James esté ocultando?"
+define portraittextes = "Necesito ver bien el retrato de\nJames I..."
+define manortextes = "¿Hay algo qué James esté escondiendo?"
 define investigorderes = "primero"
 
 
