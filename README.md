@@ -1,23 +1,25 @@
 # The Smoke Room Backup
 
-- Esta es una copia de seguridad de los archivos del The Smoke Room.
-- Archivos:
-    - RPY.
-    - Imágenes.
-    - Videos.
-    
-## Proyecto totalmente independiente a los creadores.
+Este repositorio contiene una copia de seguridad de los archivos de traducción de *The Smoke Room*.
 
-> Esta traducción es muy independiente de [**Echo Project**](https://echoproject.itch.io/), soy una persona que no forma parte del equipo.
-> 
+## Contenido
 
-## Créditos al creador:
+- **Archivos RPY**:
+- **Imágenes**
+- **Videos**
 
-> 📖 Créditos a [Echo Project](https://echoproject.itch.io/)
-> 
+## Nota Importante
+
+Este proyecto es completamente independiente de los creadores originales. No estoy afiliado con [**Echo Project**](https://echoproject.itch.io/), y esta traducción no es oficial.
+
+## Créditos
+
+Todo el crédito por el contenido original va para [**Echo Project**](https://echoproject.itch.io/).
+
+## Ramas del Proyecto
 
 > [!NOTE]
-> Rama estable **master**.
+> - **Rama Estable (`master`)**: Versión estable del proyecto.
 
 > [!WARNING]
-> Rama inestable **Beta**.
+> - **Rama Inestable (`Beta`)**: Versión en desarrollo, sujeta a cambios y potencialmente inestable.
